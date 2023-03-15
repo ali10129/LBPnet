@@ -26,9 +26,11 @@ I also did some small changes that you could fix to be as original as the paper 
 
 - *module load:*
 
+        cuda/11.4
+        
         pytorch-gpu/py38/1.8  
 
-        cuda/11.4
+        
 
 - Then execute `python myLBP.py`
 
